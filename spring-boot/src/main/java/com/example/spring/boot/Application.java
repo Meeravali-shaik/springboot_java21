@@ -1,3 +1,4 @@
+//sample code for a basic Spring Boot application
 package com.example.spring.boot;
 
 import org.springframework.boot.SpringApplication;
